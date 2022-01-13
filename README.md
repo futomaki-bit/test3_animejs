@@ -2,7 +2,7 @@
 
 Yet another test with anime.js.
 
-[Link](https://futomakiyoin.github.io/test3_animejs/)
+[Link](https://futomaki-bit.github.io/test3_animejs/)
 
 **What is [anime.js](https://animejs.com/) ?**
 
